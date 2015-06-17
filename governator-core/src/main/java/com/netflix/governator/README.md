@@ -9,7 +9,7 @@ lifecycle management.  The concept of lifecycle management has two aspects here.
 Governator also provides hooks through which additional features may be added to 
 lifecycle management at the appropriate places. 
 
-Note that this version of governator doesn't try to add any additional APIs (with the exception of the lightweight Governator.createInjector() API) or bastractions on top of Guice but rather leverage the use of Guice Modules and simple bindings to add features.
+Note that this version of governator doesn't try to add any additional APIs (with the exception of the lightweight Governator.createInjector() API) or abstractions on top of Guice but rather leverage the use of Guice Modules and simple bindings to add features.
 
 ## Creating the Injector
 ---------------------
